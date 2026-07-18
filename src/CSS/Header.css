@@ -1,0 +1,44 @@
+.header{
+    
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #e9b8b8;
+}
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.header-ul{
+    display: flex;
+    list-style-type: none;
+    width: 400px;
+    margin: auto;
+    justify-content: space-around;
+}
+.header-ul .li {
+    color: rgb(162, 0, 255);
+}
+.link h2{
+    margin:0;
+}
+.header .link{
+    text-decoration: none;
+font-size: 20px;
+    color: rgb(162, 0, 255);
+}
+.college .link{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(162, 0, 255);
+    margin: 10px;
+}
+.users .link{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(56, 2, 87);
+    margin: 20px;
+    
+    
+}
